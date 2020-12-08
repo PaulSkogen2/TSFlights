@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "SoloLearn",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
